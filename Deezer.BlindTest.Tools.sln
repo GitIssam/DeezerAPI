@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deezer.BlindTest.Tools", "Deezer.BlindTest.Tools\Deezer.BlindTest.Tools.csproj", "{23DAD272-186E-432D-B3E4-F5C4EC09917E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{AE8E7E81-03EA-422F-9CD6-66327A111166}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deezer.API", "Deezer.API\Deezer.API.csproj", "{7B7C311A-D03D-40F3-B733-CE5D8D0EBB19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Site", "Site\Site.csproj", "{10EA3413-DA38-48F9-9249-2B5EF6E028CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23DAD272-186E-432D-B3E4-F5C4EC09917E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DAD272-186E-432D-B3E4-F5C4EC09917E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DAD272-186E-432D-B3E4-F5C4EC09917E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DAD272-186E-432D-B3E4-F5C4EC09917E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8E7E81-03EA-422F-9CD6-66327A111166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8E7E81-03EA-422F-9CD6-66327A111166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8E7E81-03EA-422F-9CD6-66327A111166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8E7E81-03EA-422F-9CD6-66327A111166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7C311A-D03D-40F3-B733-CE5D8D0EBB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7C311A-D03D-40F3-B733-CE5D8D0EBB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7C311A-D03D-40F3-B733-CE5D8D0EBB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7C311A-D03D-40F3-B733-CE5D8D0EBB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10EA3413-DA38-48F9-9249-2B5EF6E028CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EA3413-DA38-48F9-9249-2B5EF6E028CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EA3413-DA38-48F9-9249-2B5EF6E028CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EA3413-DA38-48F9-9249-2B5EF6E028CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4297C71-80F4-45C8-9ABC-9D3A9748CF08}
+	EndGlobalSection
+EndGlobal

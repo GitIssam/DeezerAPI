@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23dad272-186e-432d-b3e4-f5c4ec09917e": {
+      "ProjectGuid": "23dad272-186e-432d-b3e4-f5c4ec09917e",
+      "DisplayName": "Deezer.BlindTest.Tools",
+      "ColorIndex": 0
+    },
+    "ae8e7e81-03ea-422f-9cd6-66327a111166": {
+      "ProjectGuid": "ae8e7e81-03ea-422f-9cd6-66327a111166",
+      "DisplayName": "Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

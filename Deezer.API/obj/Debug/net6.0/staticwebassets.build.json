@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HnIqAPUKsQOle2L+Fh1j6OKfTXRX4WcDd5Jv3bs0Ze0=",
+  "Source": "Deezer.API",
+  "BasePath": "_content/Deezer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
